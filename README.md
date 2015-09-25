@@ -1,6 +1,7 @@
 Description
 ===========
-
+ 
+ 
 This cookbook provides libraries, resources and providers to configure
 and manage Amazon Web Services components and offerings with the EC2
 API. Currently supported resources:
